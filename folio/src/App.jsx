@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import Home from "./comp/Home";
 import Career from "./comp/Career";
 import Study from "./comp/Study";
+import "./ericmeyer.css";
 
 function App() {
   // const [count, setCount] = useState(0);

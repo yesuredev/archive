@@ -1,4 +1,3 @@
-// import React from "react";
 import styled from "styled-components";
 import ScrollAnimation from "./ScrollAnimation";
 // import useLocomotiveScroll from "../hooks/useSmoothScroll";
